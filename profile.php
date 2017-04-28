@@ -1,4 +1,6 @@
 <?php
+cjrmjnfxn
+	ffxjncwtgj3fxr
 mysql_connect("localhost","nov01","nov01");
 mysql_select_db("nov01");
 $msg = "<b style='color:green'> Profile Information </b>";
